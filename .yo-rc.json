@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "e2e",
+    "packageName": "com.emobisys.e2e",
+    "packageFolder": "com/emobisys/e2e",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "338294d2d2f033d2c17c6d7e8b3154ef80863c5b"
+  }
+}
